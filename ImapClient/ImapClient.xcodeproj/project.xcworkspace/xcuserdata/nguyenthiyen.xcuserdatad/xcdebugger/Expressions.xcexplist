@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MailBoxListViewController tableView:numberOfRowsInSection:]:MailBoxListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Imap getMessagesCountInSelectedMailBox]:Imap.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Imap commandLoginWith:and:]:Imap.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MailBoxListViewController tableView:cellForRowAtIndexPath:]:MailBoxListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Imap getMailBox]:Imap.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Imap getMessagesList]:Imap.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "m">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Imap handleInputStreamEvent:]:Imap.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Imap readInputStream]:Imap.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
